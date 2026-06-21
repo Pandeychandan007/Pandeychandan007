@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chanden pandey
-- 👀 I’m interested in Web Development and computer science
+- 👀 I’m interested in Data analysis 
 - 🌱 I’m currently doing my undergraduation
 - 💞️ I’m looking to collaborate with tech companies.
 - 📫 linkedin.com/in/chanden-pandey-810791320
