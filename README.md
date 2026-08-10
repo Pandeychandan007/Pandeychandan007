@@ -19,7 +19,7 @@ Computer Science student with hands-on experience building ETL pipelines, queryi
 * **Cricket data Analysis**: Interactive player selection tool built on 219 World Cup players — [Repo](https://github.com/pandeychandan007/cricket_data_analysis)
 * **Walmart Sales Analysis**: SQL-driven analysis answering 9 business questions across 100 branches — [Repo](https://github.com/pandeychandan007/walmart_sales_analysis)
 * **Hospitality Domain Analysis**: Booking dashboard tracking 134K+ bookings across 25 hotels — [Repo](https://github.com/pandeychandan007/hospitality_domain_analysis)
-* **All Projects**: All projects in one place — [Repo](https://github.com/pandeychandan007/)
+* **All Projects**: All projects in one place — [Repo](https://github.com/pandeychandan007?tab=repositories)
 
 ## Contact
 
