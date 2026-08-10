@@ -14,12 +14,12 @@ Computer Science student with hands-on experience building ETL pipelines, queryi
 
 ## Featured Projects
 
-* **Banking Risk Analytics Dashboard**: Power BI dashboard tracking a $4.38B loan portfolio across 2,940 clients — [Repo](https://github.com/pandeychandan007/banking-analysis)
-* **Market Basket Analysis**: Product pairing insights from 9,000+ grocery transactions — [Repo](https://github.com/pandeychandan007/basket-analysis)
-* **Project Sportan — Best T20 XI Selector**: Interactive player selection tool built on 219 World Cup players — [Repo](https://github.com/pandeychandan007/cricket-analysis)
-* **Walmart Sales Analysis**: SQL-driven analysis answering 9 business questions across 100 branches — [Repo](https://github.com/pandeychandan007/walmart-sales-analysis)
-* **Hospitality Domain Analysis**: Booking dashboard tracking 134K+ bookings across 25 hotels — [Repo](https://github.com/pandeychandan007/hospitality-analysis)
-* **Full Portfolio**: All 8 projects in one place — [Repo](https://github.com/pandeychandan007/data-analyst-portfolio)
+* **Banking Analytics Dashboard**: Power BI dashboard tracking a $4.38B loan portfolio across 2,940 clients — [Repo](https://github.com/pandeychandan007/banking_analysis)
+* **Market Basket Analysis**: Product pairing insights from 9,000+ grocery transactions — [Repo](https://github.com/pandeychandan007/basket_analysis)
+* **Cricket data Analysis**: Interactive player selection tool built on 219 World Cup players — [Repo](https://github.com/pandeychandan007/cricket_data_analysis)
+* **Walmart Sales Analysis**: SQL-driven analysis answering 9 business questions across 100 branches — [Repo](https://github.com/pandeychandan007/walmart_sales_analysis)
+* **Hospitality Domain Analysis**: Booking dashboard tracking 134K+ bookings across 25 hotels — [Repo](https://github.com/pandeychandan007/hospitality_domain_analysis)
+* **All Projects**: All projects in one place — [Repo](https://github.com/pandeychandan007/)
 
 ## Contact
 
