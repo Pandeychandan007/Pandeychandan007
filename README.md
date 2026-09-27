@@ -9,7 +9,7 @@ Computer Science student with hands-on experience building ETL pipelines, queryi
 * **Programming**: SQL, Python
 * **BI & Visualization**: Power BI, DAX, Power Query, Tableau
 * **Databases**: PostgreSQL, MySQL
-* **Cloud & Data Platforms**: AWS (S3), Snowflake
+* **Cloud & Data Platforms**: AWS (S3), 
 * **Core Techniques**: Data Cleaning, ETL, Statistical Analysis, Dashboard Design
 
 ## Featured Projects
