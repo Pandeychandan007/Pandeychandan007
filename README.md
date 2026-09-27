@@ -30,6 +30,7 @@ Computer Science student with hands-on experience building ETL pipelines, queryi
 
 ## Certifications
 
-* **Complete Data Analyst Bootcamp** — Udemy (90 hours)
-* **Data Analysis** — Cognitive Class
-* **Data Analysis** — HP LIFE
+* **Complete Data Analyst Bootcamp** — Udemy (90 hours) [certificate](https://github.com/Pandeychandan007/certificate/blob/7989541a083b7e2dba33774d53e66e73c34530e1/udemy%20data%20analyst.pdf)
+
+* **Data Analysis** — Cognitive Class [certificate](https://github.com/Pandeychandan007/certificate/blob/7989541a083b7e2dba33774d53e66e73c34530e1/data%20analysis%20python.pdf)
+* **Data Analysis** — HP LIFE [certificate](https://github.com/Pandeychandan007/certificate/blob/7989541a083b7e2dba33774d53e66e73c34530e1/hp%20data%20analysis%20certificate_page-0001.jpg)
